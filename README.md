@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/hayyiklanaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hayyiklanaar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20271166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20271166" height="30" width="40" /></a>
 <a href="https://instagram.com/mas_hayyik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mas_hayyik" height="30" width="40" /></a>
-<a href="https://discord.gg/440359434305404934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="440359434305404934" height="30" width="40" /></a>
+<a href="https://discord.gg/QsNVkxQg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="440359434305404934" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Hacktiv8**
 
-- 📫 How to reach me **contact@mashayyik.dev**
+- 📫 How to reach me **mail@mashayyik.dev**
 
 - ⚡ Fun fact **Make something with brute force code**
 

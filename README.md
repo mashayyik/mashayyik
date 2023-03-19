@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashayyik&label=Profile%20views&color=0e75b6&style=flat" alt="mashayyik" /> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript, goLang, Java with Springboot**
 
 - 📫 How to reach me **mail@mashayyik.dev**
-
-- ⚡ Fun fact **Make something with brute force code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

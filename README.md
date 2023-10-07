@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hayyik Lanaa R</h1>
-<h3 align="center">Temanggung, Indonesia</h3>
+<h3 align="center">South Jakarta, Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashayyik&label=Profile%20views&color=0e75b6&style=flat" alt="mashayyik" /> </p>
 
-- 🌱 I’m currently learning **Typescript, goLang, Java with Springboot**
+- 🌱 I’m currently used **Java with Springboot** as Backend Dev
 
 - 📫 How to reach me **mail@mashayyik.dev**
 

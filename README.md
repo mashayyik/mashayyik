@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashayyik&label=Profile%20views&color=0e75b6&style=flat" alt="mashayyik" /> </p>
 
-- 🌱 I’m currently used **Java with Springboot** as Backend Dev
+- 🌱 I'm currently work as Java Backend Developer using Spring Boot
 
 - 📫 How to reach me **mail@mashayyik.dev**
 
